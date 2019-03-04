@@ -1,0 +1,9 @@
+Aplikacija je razvijana da radi na rezoluciji 1920x1080 i scalling na 100%, sve druge opcije nece davati zeljeni prikaz.
+Aplikacija ima limitiran pristup, potrebni su kreirani nalozi.
+Nalog za pristup formi direktora je:
+Korisnicko ime: direktor
+Lozinka: direktor
+Nalog za pristup formi radnika je:
+Korisnicko ime: radnik
+Lozinka: radnik
+
